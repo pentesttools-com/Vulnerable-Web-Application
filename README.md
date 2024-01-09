@@ -1,8 +1,7 @@
 # Vulnerable Web Application 
 
 ![VulnWeb](https://github.com/OWASP/Vulnerable-Web-Application/blob/master/Resources/VulnWeb.png)
-[Pentest-Ground](https://pentest-ground.com/) - free playground with vulnerable web apps.
-
+[Pentest-Ground](https://pentest-ground.com/) - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 ## What is Vulnerable-Web-Application
 
 Vulnerable-Web-Application is a website that is prepared for people who are interested in web penetration and who want to have
